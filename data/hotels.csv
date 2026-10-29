@@ -1,0 +1,10 @@
+﻿hotel_id,hotel_name,city,price_total,room_capacity,rating,breakfast_score,quiet_score,family_score,cleanliness_score,location_score,distance_to_sea_min,free_cancellation,elevator,baby_cot,pet_friendly,sea_score
+sochi_001,Sea Breeze,Сочи,87000,4,4.6,4,5,5,4,5,5,1,1,1,1,5
+sochi_002,Palm Hotel,Сочи,72000,3,4.7,5,5,4,5,4,15,1,1,0,0,3
+sochi_003,Proper Place,Сочи,74000,4,4.6,5,2,5,5,5,5,0,1,1,1,5
+antalya_001,Lara Family Resort,Анталья,76000,4,4.8,5,4,5,5,5,3,1,1,1,1,5
+antalya_002,Mediterranean Garden,Анталья,62000,3,4.6,4,5,4,5,4,10,1,1,1,0,4
+antalya_003,Old Town Beach Hotel,Анталья,55000,2,4.5,4,2,3,4,5,7,0,1,0,1,4
+dubai_001,Marina Family Suites,Дубай,105000,5,4.8,5,4,5,5,5,5,1,1,1,1,5
+dubai_002,Palm View Hotel,Дубай,92000,3,4.7,5,5,4,5,4,12,1,1,1,0,3
+dubai_003,City Beach Inn,Дубай,78000,2,4.4,4,3,4,4,4,20,0,1,0,1,2
